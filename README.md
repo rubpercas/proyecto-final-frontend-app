@@ -30,7 +30,7 @@ This frontend communicates with the backend API, which is detailed in the <a hre
 
 ## Deployment URLs
 - **Frontend**: <a href="https://proyecto-final-frontend-app.vercel.app/"> Mamma mIA recipe generator </a>
-- **Backend**: <a href="https://flask-rest-hello-2pl3.onrender.com/"></a>
+- **Backend**: <a href="https://flask-rest-hello-2pl3.onrender.com/"> Backend </a>
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. We welcome any improvements or suggestions!
